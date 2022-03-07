@@ -1,0 +1,2 @@
+robotframework==4.1.3
+robotframework-screencaplibrary==1.6.0
